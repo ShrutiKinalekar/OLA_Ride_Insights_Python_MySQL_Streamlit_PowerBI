@@ -33,6 +33,7 @@ Integrate KPIs and metrics for business insights.
 Create a user-friendly UI to display SQL query results.
 Implement interactive filters and search options.
 Embed Power BI visuals into the Streamlit app for a complete analytics experience.
+![Alt_text](https://github.com/ShrutiKinalekar/OLA_Ride_Insights_Python_MySQL_Streamlit_PowerBI/blob/main/OLAStreamlit_Screenshot.png)
 
 **Business Use Cases:**
 Identifying peak demand hours and optimizing driver allocation.
@@ -52,17 +53,8 @@ Ola_Queries.sql  #Sql Commands for Analysis
 ConnectDB_OLA.py # Script to connect to Database
 Ola_DataCleaning_EDA.ipynb # Script to analyse data
 OLAStreamlit.py # Streamlit dashboard application
-
-
-
-Traffic_SQL_Queries.sql # All 15 Sql Queries.
-
 requirements.txt # List of dependencies
 
 **Technical Tags:**
 Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Data Visualization, Power BI, Streamlit, Data Cleaning, Feature Engineering, EDA.
 
-
-**Business Impact**
-
-​This platform enables stakeholders to:
