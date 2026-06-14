@@ -27,7 +27,7 @@ Design interactive visualizations for ride trends, revenue, and cancellations.
 Use filters and slicers for dynamic data exploration.
 Integrate KPIs and metrics for business insights.
 
-![Alt_text](
+![Alt_text](https://github.com/ShrutiKinalekar/OLA_Ride_Insights_Python_MySQL_Streamlit_PowerBI/blob/main/OLA_Dashboard_Screenshot.png)
 
 **Streamlit Application Development**
 Create a user-friendly UI to display SQL query results.
