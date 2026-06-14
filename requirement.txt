@@ -1,0 +1,11 @@
+warnings
+pandas
+mysql.connector
+tabulate
+streamlit
+matplotlib
+seaborn
+sqlalchemy
+urllib.parse
+gdown
+SQLAlchemyErrorp
