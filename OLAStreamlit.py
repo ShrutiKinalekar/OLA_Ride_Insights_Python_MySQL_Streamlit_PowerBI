@@ -8,8 +8,7 @@ import pandas as pd
 import mysql.connector
 from tabulate import tabulate
 import streamlit as st
-import matplotlib.pyplot as plt
-import seaborn as sns
+
 
 
 #------------------------------- Adding Gradient Background--------------------------------
