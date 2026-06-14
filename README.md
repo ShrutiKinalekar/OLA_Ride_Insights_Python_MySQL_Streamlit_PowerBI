@@ -27,6 +27,8 @@ Design interactive visualizations for ride trends, revenue, and cancellations.
 Use filters and slicers for dynamic data exploration.
 Integrate KPIs and metrics for business insights.
 
+![Alt_text](
+
 **Streamlit Application Development**
 Create a user-friendly UI to display SQL query results.
 Implement interactive filters and search options.
